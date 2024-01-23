@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python, React JS, Express JS<br>👯 I’m looking to collaborate on LLM, Gen AI<br>🤝 I’m looking for help with React and LLMs<br>🌱 I’m currently learning React JS<br>💬 Ask me about Data Structures and Algorithms<br>⚡ Fun fact I initially hated python because it didn’t give me an actual coding experience like java, js did but started loving it more and more after messing around with it’s data structures
+🔭 I’m currently working on Python, React JS, Express JS<br>👯 I’m looking to collaborate on LLM, Gen AI<br>🤝 I’m looking for help with React and LLMs<br>🌱 I’m currently learning React JS<br>💬 Ask me about anything on Data Structures and Algorithms<br>⚡ Fun fact, I initially hated python because it didn’t give me an actual coding experience like java, js did but started loving it more and more after messing around with it’s data structures
 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vengatesh99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
